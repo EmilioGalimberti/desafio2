@@ -63,7 +63,7 @@ Roxs es la líder de un equipo de trabajo para una compañía que realiza Audito
 
 Entregable, crear un Readme.md con la solución al Problema propuesto
 
-#Resolucion 4
+# Resolucion 4
 
 1.Las medidas de seguridad a implementar son modificar los permisos de archivos
 Algunas paginas que me sirvieron:
