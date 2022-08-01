@@ -67,8 +67,8 @@ Entregable, crear un Readme.md con la solución al Problema propuesto
 
 1.Las medidas de seguridad a implementar son modificar los permisos de archivos
 Algunas paginas que me sirvieron:
--[Permisos básicos en GNU/Linux con chmod](https://blog.desdelinux.net/permisos-basicos-en-gnulinux-con-chmod/)
--[CHMOD 777, 755, 655, 644 y más permisos archivos Linux](https://www.solvetic.com/tutoriales/article/1458-entender-los-permisos-linux-chmod/)
+- [Permisos básicos en GNU/Linux con chmod](https://blog.desdelinux.net/permisos-basicos-en-gnulinux-con-chmod/)
+- [CHMOD 777, 755, 655, 644 y más permisos archivos Linux](https://www.solvetic.com/tutoriales/article/1458-entender-los-permisos-linux-chmod/)
 
 2.Tenemos 3 tipos de usuarios, y los principales que se veran afectados seran grupos y otros
 
